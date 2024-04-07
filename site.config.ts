@@ -3,25 +3,25 @@ import { siteConfig } from './lib/site-config'
 export default siteConfig({
   // the site's root Notion page (required)
   // rootNotionPageId: 'niviki-com-t-do-t-i-ch-nh-10f5e54221eb4b059bc5b5305da949ba',
-  rootNotionPageId: 'Fintech24h-Blockchain-Agency-More-f6481c28eba24a01a9ddc4fd73bc8cd5?pvs=4',
+  rootNotionPageId: 'Web3-Agency-Listing-Service-Marketplace-1b23ace3986b485da9c10c678a754383',
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'FINTECH24H.COM - BLOCKCHAIN AGENCY & MORE',
-  domain: 'fintech24h.com',
-  author: 'Phat Vo - Co-Founder & CPO',
+  name: 'CMOINTERN.COM - WEB3 AGENCY LISTING | SERVICE MARKETPLACE',
+  domain: 'cmointern.com',
+  author: 'Phat Vo - Founder & CPO at Fintech24h.com',
 
   // open graph metadata (optional)
-  description: 'Blockchain Agency & More',
+  description: 'WEB3 AGENCY LISTING | SERVICE MARKETPLACE',
 
   // social usernames (optional)
-  twitter: 'fintech24h_com',
+  twitter: 'cmointern_com',
   // github: 'transitive-bullshit',
-  linkedin: 'fintech24h',
+  linkedin: 'cmointern',
   
-  facebook: 'https://www.facebook.com/fintech24hnews',
+  facebook: 'https://www.facebook.com/CMOIntern',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
 //  youtube: 'channel/UCI6GDuK41kD9T8icFp8d7Aw', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
