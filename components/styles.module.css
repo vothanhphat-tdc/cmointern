@@ -33,7 +33,7 @@
 
 .main {
   display: flex;
-flex-direction: column;
+flex-direction: unset;
 justify-content: space-between;
 align-items: center;
 flex-wrap: wrap;
