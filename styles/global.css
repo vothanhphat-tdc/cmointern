@@ -1,3 +1,5 @@
+
+
 * {
   box-sizing: border-box;
 }
@@ -181,7 +183,7 @@ footer .toogle-theme {
   }
 
   .notion-page-content {
-    flex-direction: column-reverse;
+    flex-direction: unset;
   }
 
   .notion-page-content-has-aside .notion-aside {
@@ -190,6 +192,7 @@ footer .toogle-theme {
     width: 100%;
     top: 0;
     flex-direction: unset;
+    flex-wrap: wrap;
   }
 
   .notion-aside-table-of-contents {
