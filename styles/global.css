@@ -175,7 +175,7 @@ footer .toogle-theme {
 
   .notion-list-item-body {
     width: 33%;
-    justify-content: right;
+    justify-content: center;
   }
 
   .notion-toggle {
