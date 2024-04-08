@@ -80,7 +80,7 @@ body {
 
 .notion-nav-header-mobile .nav-content {
   display: flex;
-  flex-flow: column;
+  flex-flow: unset;
   align-items: center;
   justify-content: center;
   gap: 0px;
@@ -252,7 +252,7 @@ footer .toogle-theme {
   .notion-page-content-has-aside {
     flex-wrap: wrap;
     width: calc(((100vw + var(--notion-max-width)) / 2) - 30px);
-    flex-direction: row;
+    flex-direction: unset;
   }
 
   .notion-page-content-has-aside .notion-page-content-inner {
