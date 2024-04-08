@@ -32,12 +32,13 @@
 }
 
 .main {
-  position: unset;
+  position: relative;
   display: flex;
   flex-grow: 1;
-align-items: center;
+  flex-wrap: wrap; 
+  justify-content: center;
+  align-items: center;
   min-height: calc(100vh - var(--notion-header-height));
-flex-wrap: wrap;
 }
 
 .errorImage {
